@@ -1,6 +1,6 @@
-# PHP Basic Task Management App
+# PHP Basic To-do App
 
-A simple task management application built with **pure PHP** and **Vanilla JavaScript**. This project demonstrates basic CRUD (Create, Read, Update, Delete) operations and showcases clean, maintainable code.
+A simple To-do application built with **pure PHP** and **Vanilla JavaScript**. This project demonstrates basic CRUD (Create, Read, Update, Delete) operations and showcases clean, maintainable code.
 
 ---
 
